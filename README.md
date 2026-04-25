@@ -46,10 +46,14 @@ To build a recommendation system that provides personalized movie suggestions by
 
 ---
 
-## 🚀 How to Run
+## 📸 Output Example
 
-```bash
-git clone https://github.com/satyam484/movie-recommendation-system.git
-cd movie-recommendation-system
-pip install -r requirements.txt
-python app.py
+Example:
+Input: Harry Potter and the Half-Blood Prince  
+Recommended Movies:
+1. Harry Potter and the Chamber of Secrets
+2. Harry Potter and the Prisoner of Azkaban
+3. Goosebumps
+4. Harry Potter and the Order of the Phoenix 
+
+
